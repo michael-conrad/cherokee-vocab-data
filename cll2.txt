@@ -3,28 +3,28 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 # There is a max of 21 new and hidden new cards per session.
 
 # Chapter 2
-
-||||||ᎥᏝ ᎫᎫ ᏧᏁᎩꮅᏗ ᏱᎦᏗᎠ; Ꮭ ᎫᎫ ᏧᏁᎩꮅd ᏱᎦᏗ|v̀hla gùːgu juːnéːgihldi yigaːdía; hla gùːgu juːnéːgihld yigaːdí|I'm not saying the bottles are ugly.|||
-||||||ᏙᎹᏏ ᏩᎭᏯ ᎤᏂᏁᎩꮅᏗ ᎠᏗᎭ.; ᏙᎹᏍ ᏩᏯ ᎤᏂᏁᎩꮅd ᎠᏗ.|Tóːmasi wahaya uːniːnéːgihldi àːdiha.; Tóːmas wahya uːniːnéːgihld àːdi.|Thomas says the wolves are ugly.|||
-||||||ᏗᎪᏪᎵ ᏧᏬᏚᎯ ᎠᏆnᏔ.; ᏗᎪᏪꮅ ᏧᏬᏚ ᎠᏆnt.|Digoːhweːli juwoːdűːhi àgwanhta.; Digoːhweːl juwoːdű àgwanht.|I know the papers are pretty.|||
-||||||ᏧᏬᏚᎯ ᎫᎫ ᏓᎩᎭ.; ᏧᏬᏚ Ꭻg ᏓᎩ.|Juwoːdűːhi gùːgu dàːgiha.; Juwoːdű gùːg dàːgi.|I have pretty bottles.|||
-||||||ᎤᏁᎩꮅᏗ ᏐᏈᎵ ᏥᎪwᏘᎭ.; ᎤᏁᎩꮅd ᏐᏈꮅ ᏥᎪwᏘ.|Uːnéːgihldi sǒːgwíli jiːgowhtíha.; Uːnéːgihld sǒːgwíl jiːgowhtí.|I see an ugly horse.|||
-||||||ᎫᎴ ᏗᏐᎢ ᎠᏆnᏔ.; ᎫᎴ ᏗᏐ ᎠᏆnt.|Guːle dǐːsoʔi àgwanhta.; Guːle dǐːso àgwanht.|I know the acorns are additional ones.|||
-||||||Ꮭ ᎩᎦᎨ ᎫᎫ ᎦᏘᏲᎢ ᏱᎨᏎ.; Ꮭ ᎩᎨ ᎫᎫ ᎦᏘᏲ ᏱᎨᏎ.|Hla gǐːgáge̋ gùːgu gǎːtíːyőːʔi yiːgèːsé.; Hla gǐːge̋ gùːgu gǎːtíːyő yiːgèːsé.|There wasn't a red bottle at the stompground.|||
-||||||Ꮭ ᏌᎪᏂᎨ ᎤᏍᎪᎸ ᎫᎫ ᏐᎢᏱ ᏱᎩ.|Hla sakǒːníge̋ ùːsgǒːlv̋ gùːgu soʔǐːyi yi̋ːgi.|There isn't a blue-gray bottle in the next room.|||
-||||||ᏙᎹᏏ Ꮭ ᏲᎾ ᎤᏬᏚᎯ ᏳnᏔ.; ᏙᎹᏏ Ꮭ Ᏺn ᎤᏬᏚ ᏳnᏔ.|Tóːmasi hla yǒːna uwoːdűːhi yùnhta.; Tóːmasi hla yǒːn uwoːdű yùnhta.|Thomas doesn't know the bear is pretty.|||
-||||||ᏐᎢ ᏌᎶᎵ ᎦᏘᏲᎢ ᎨᏎᏍᏗ.; Ꮠ ᏌᎶꮅ ᎦᏘᏲ ᎨᏎᏍd.|Sóʔi salǒːli gǎːtíːyőːʔi gèːséːsdi.; Só salǒːl gǎːtíːyő gèːséːsd.|Another squirrel will be at the stompground.|||
-||||||ᎠᏴᏫ Ꮭ ᏚᏯ ᏧᏁᎩꮅᏗ ᏯᏗᎭ.; ᏴᏫ Ꮭ ᏚᏯ ᏧᏁᎩꮅd ᏯᏗᎭ.|Ayvːwi hla tǔːya juːnéːgihldi yàːdiha.; Yvːwi hla tǔːya juːnéːgihld yàːdiha.|The person isn't saying the beans are ugly.|||
-||||||ᎫᎫ ᏓᎶᏂᎨ ᎤᏍᎪᎸ ᎤnᏔ.|Gùːgu dalǒːníge̋ ùːsgǒːlv̋ ùnhta.|He knows the bottle is orange.|||
-||||||Ꮭ ᏐᎢ ᎠᎭᏫ ᏐᎢᏱ ᏱᎩ.; Ꮭ Ꮠ ᎠᏫ ᏐᎢᏱ Ᏹg.|Hla sóʔi ahawi soʔǐːyi yi̋ːgi.; Hla só ahwi soʔǐːyi yi̋ːg.|There isn't another deer in the next room.|||
-||||||ᎤᏁᎩꮅᏗ ᏥᏍᏚ ᏣᎧᎭ.; ᎤᏁᎩꮅd ᏥᏍd ᏣᎧᎭ.|Uːnéːgihldi jiːsdu jakáha.; Uːnéːgihld jiːsd jakáha.|You have an ugly rabbit.|||
-||||||Ꮭ ᏌᎶᎵ ᎤᏬᏚᎯ ᏯᏗᎭ.; Ꮭ ᏌᎶꮅ ᎤᏬᏚ ᏯᏗᎭ.|Hla salǒːli uwoːdűːhi yàːdiha.; Hla salǒːl uwoːdű yàːdiha.|He isn't saying the squirrel is pretty.|||
-||||||Ꮭ ᏅᏯ ᏧᏁᎩꮅᏗ ᏱᎦᏗᎠ.; Ꮭ ᏅᏯ ᏧᏁᎩꮅd ᏱᎦᏗ.|Hla nv̀ːya juːnéːgihldi yigaːdía.; Hla nv̀ːya juːnéːgihld yigaːdí.|I'm not saying the rocks are ugly.|||
-||||||Ꮭ ᏧᏃᏚᎯ ᏪᏌ ᎦᏘᏲᎢ ᏱᎨᏎᎢ.; Ꮭ ᏧᏃᏚ ᏪᏍ ᎦᏘᏲ ᏱᎨᏎ.|Hla juːnoːdűːhi wěːsa gǎːtíːyőːʔi yiːgèːséːʔi.; Hla juːnoːdű wěːs gǎːtíːyő yiːgèːsé.|There weren't any pretty cats at the stompground.|||
-||||||ᎤᏬᏚᎯ ᎪᎱᏍᏗ ᎯᎪwᏘᎭ.; ᎤᏬᏚ ᎪᏍᏗ ᎯᎪwᏘ.|Uwoːdűːhi goːhűːsdi higowhtíha.; Uwoːdű gőːsdi higowhtí.|You see a pretty thing.|||
-||||||ᎠᏴᏫ Ꮭ ᎠᎭᏫ ᎤᏁᎩꮅᏗ ᏯᏗᎭ.; ᏴᏫ Ꮭ ᎠᏫ ᎤᏁᎩꮅd ᏯᏗ.|Ayvːwi hla ahawi uːnéːgihldi yàːdiha.; Yvːwi hla ahwi uːnéːgihld yàːdi.|The person isn't saying the deer is ugly.|||
-||||||Ꮭ ᎪᏪᎵ ᏐᎢ ᏳnᏔ.; Ꮭ ᎪᏪꮅ Ꮠ ᏳnᏔ.|Hla goːhweːli sóʔi yùnhta.; Hla goːhweːl só yùnhta.|He doesn't know the paper is an additional one.|||
-||||||ᎤᎭᏍᎪ ᏐᎢ ᎫᎫ ᎺᎵ?; ᎤᎭᏍ Ꮠ ᎫᎫ ᎺᎵ?|ǔːhasgo sóʔi gùːgu méːli?; ǔːhas só gùːgu méːli?|Does Mary have another bottle?||Complete the lesson material through the end of chapter 2.|
+|||||||gùːgu juːnéːgihldi; gùːgu juːnéːgihld|The bottles are ugly.|||
+|||||||v̀hla juːnéːgihldi yigaːdía; hla juːnéːgihld yigaːdí|I'm not saying they are ugly.|||
+|||||||Wahaya hla uːniːnéːgihldi yi̋ːgi.; Wahya hla uːniːnéːgihld yi̋ːg.|The wolves aren't ugly.|||
+|||||||uːniːnéːgihldi, Tóːmasi àːdiha.; uːniːnéːgihld, Tóːmasi àːdi.|They are ugly, says Thomas.|||
+|||||||Digoːhweːli juwoːdűːhi.; Digoːhweːl juwoːdű.|The papers are pretty.|||
+|||||||Juwoːdűːhi àgwanhta.; Juwoːdű àgwanht.|I know they are pretty.|||
+|||||||Juwoːdűːhi gùːgu.; Juwoːdű gùːg.|Pretty bottles.|||
+|||||||Gùːgu dàːgiha.; Gùːg dàːgi.|I have bottles.|||
+|||||||Uːnéːgihldi sǒːgwíli.; Uːnéːgihld sǒːgwíl.|An ugly horse.|||
+|||||||Dǐːsoʔi guːle.; Dǐːso guːle.|Additional acorns.|||
+|||||||Dǐːsoʔi àgwanhta.; Dǐːso àgwanht.|I know there are others.|||
+|||||||Hla gùːgu yiːgèːsé gǎːtíːyőːʔi.; Hla̋ gùːgu yiːgèːsé gǎːtíːyő.|There wasn't a bottle at the stompground.|||
+|||||||Hla dǐːsoʔi soʔǐːyi yi̋ːgi.|Others aren't in the next room.|||
+|||||||Tóːmasi hla yùnhta.|Thomas doesn't know it.|||
+|||||||Sóʔi salǒːli gèːséːsdi.; Só salǒːl gèːséːsd.|It will be another squirrel.|||
+|||||||Dǐːsoʔi salǒːli gèːséːsdi.; Dǐːso salǒːl gèːséːsd.|It will be other squirrels.|||
+|||||||Aniːyvːwi hla niga̋ːda yàːnadiha.; Yvːwi hla niga̋ːda yàːnadiha.|People don't know everything.|||
+|||||||Dalǒːníge̋ ùːsgǒːlv̋ ùnhta.; Dalǒːníge̋ ùːsgǒːl ùnht.|He knows it is orange.|||
+|||||||Gùːgu dalǒːníge̋ ùːsgǒːlv̋.|The bottle is orange.|||
+|||||||Sóʔi hla soʔǐːyi yi̋ːgi.; Só hla soʔǐːyi yi̋ːg.|There isn't an other in the next room.|||
+|||||||Uːnéːgihldi jiːsdu jakáha.; Uːnéːgihld jiːsd jakáha.|You have an ugly rabbit.|||
+|||||||ǔːhas sóʔi gùːgu méːli?; ǔːhas só gùːg méːl?|Does Mary have another bottle?||Complete the lesson material through the end of chapter 2.|
 
 # Chapter 3
 
