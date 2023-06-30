@@ -14,6 +14,7 @@ import pathlib
 IX_VALID: int = 0
 IX_PRONOUNCE: int = 6
 IX_ENGLISH: int = 5
+IX_SYLLABARY: int = 4
 
 
 def main() -> None:
@@ -59,7 +60,8 @@ def main() -> None:
                         alt_pronounce += "; "
                     alt_pronounce += item
                 gender: str = ""
-                data_row: str = f"||{alt_pronounce}|||{gender}||{pronounce}|{english}||"
+                syllabary: str = parts[IX_SYLLABARY].strip()
+                data_row: str = f"||{alt_pronounce}|||{gender}|{syllabary}|{pronounce}|{english}||"
                 w.write(data_row)
                 w.write("\n")
                 wcsv.writerow(data_row.split("|"))
